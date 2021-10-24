@@ -1,0 +1,6 @@
+@use '../../variable' as g;
+.a-button{
+  color: g.$pushpin;
+  font-size: 20px;
+  font-weight: bold;
+}
